@@ -1,6 +1,6 @@
 # RNN
 
-本 notebook 将在[手写数字识别作业](https://github.com/BeiYazi0/DL_homework/tree/main/SP)的基础上进行修改，为 简单[框架](https://github.com/BeiYazi0/cnn)增加循环层，并对其进行小小的改动。
+本仓库实现了一个基于循环神经网络（RNN）的序列预测模型，用于处理三维坐标序列数据。
 
 直接运行 train.py 可训练一个模型。
 直接运行 test.py 可加载一个模型。
